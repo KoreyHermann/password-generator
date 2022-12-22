@@ -19,3 +19,9 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo
+
+## Link
+
+https://koreyhermann.github.io/password-generator/
+
+![password generator screenshot](assets/screenshot.png?raw=true "screenshot")

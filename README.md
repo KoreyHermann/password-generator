@@ -24,4 +24,4 @@ Please refer to the LICENSE in the repo
 
 https://koreyhermann.github.io/password-generator/
 
-![password generator screenshot](assets/screenshot.png?raw=true "screenshot")
+![screenshot](https://user-images.githubusercontent.com/118943682/209263869-474f068a-fdd2-4381-abb6-69a2a8f76a4a.PNG)
